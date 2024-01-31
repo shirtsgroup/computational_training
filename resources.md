@@ -1,6 +1,6 @@
 ## Learning simulation tools
 (Can be non-gromacs)
-- [GROMACS Tutorials by Justin Lemkul](http://www.mdtutorials.com/gmx/index.html)
+- [GROMACS Tutorials](http://www.mdtutorials.com/gmx/index.html) by Justin Lemkul
 - [Bioinformatics With BB on YouTube](https://www.youtube.com/@jaannawaz2007)
 - [Computational Chemistry Blog with numerous topics](https://www.compchems.com/) 
 - Wei-Tse Hsu's [notes on advanced sampling](https://weitsehsu.com/course/advanced_sampling/) 
